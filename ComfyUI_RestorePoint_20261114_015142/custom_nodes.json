@@ -1,0 +1,324 @@
+[
+    {
+        "name": "comfyui-connection-helper",
+        "path": "C:\\Users\\Rion\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\ComfyUI\\ComfyUI\\custom_nodes\\comfyui-connection-helper",
+        "git": {
+            "is_git_repository": true,
+            "remote_url": "https://github.com/ltdrdata/comfyui-connection-helper.git",
+            "branch": "main",
+            "commit": "a917f77bd02cde5aa67f427eb81e8356fffbc98e",
+            "commit_short": "a917f77"
+        },
+        "requirements": [],
+        "package_metadata": [
+            "pyproject.toml"
+        ],
+        "files": [
+            "__init__.py",
+            "README.md",
+            "pyproject.toml"
+        ]
+    },
+    {
+        "name": "ComfyUI-Crystools",
+        "path": "C:\\Users\\Rion\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\ComfyUI\\ComfyUI\\custom_nodes\\ComfyUI-Crystools",
+        "git": {
+            "is_git_repository": true,
+            "remote_url": "https://github.com/crystian/ComfyUI-Crystools.git",
+            "branch": "main",
+            "commit": "2f18256c5b5063937106f29a8e0a7db3ae3869b7",
+            "commit_short": "2f18256"
+        },
+        "requirements": [
+            "requirements.txt"
+        ],
+        "package_metadata": [
+            "pyproject.toml",
+            "package.json"
+        ],
+        "files": [
+            "__init__.py",
+            "README.md",
+            "requirements.txt",
+            "pyproject.toml"
+        ]
+    },
+    {
+        "name": "ComfyUI-Custom-Scripts",
+        "path": "C:\\Users\\Rion\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\ComfyUI\\ComfyUI\\custom_nodes\\ComfyUI-Custom-Scripts",
+        "git": {
+            "is_git_repository": true,
+            "remote_url": "https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git",
+            "branch": "main",
+            "commit": "609f3afaa74b2f88ef9ce8d939626065e3247469",
+            "commit_short": "609f3af"
+        },
+        "requirements": [],
+        "package_metadata": [
+            "pyproject.toml"
+        ],
+        "files": [
+            "__init__.py",
+            "README.md",
+            "pyproject.toml"
+        ]
+    },
+    {
+        "name": "ComfyUI-Fayens",
+        "path": "C:\\Users\\Rion\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\ComfyUI\\ComfyUI\\custom_nodes\\ComfyUI-Fayens",
+        "git": {
+            "is_git_repository": true,
+            "remote_url": "https://github.com/iFayens/ComfyUI-Fayens.git",
+            "branch": "main",
+            "commit": "42405e657f03e01df23cabd74092206ffd77c989",
+            "commit_short": "42405e6"
+        },
+        "requirements": [
+            "requirements.txt"
+        ],
+        "package_metadata": [],
+        "files": [
+            "__init__.py",
+            "README.md",
+            "requirements.txt"
+        ]
+    },
+    {
+        "name": "ComfyUI-HTMutilitty",
+        "path": "C:\\Users\\Rion\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\ComfyUI\\ComfyUI\\custom_nodes\\ComfyUI-HTMutilitty",
+        "git": {
+            "is_git_repository": true,
+            "remote_url": "https://github.com/Ripax/ComfyUI-HTMutilitty.git",
+            "branch": "patch-13112026",
+            "commit": "61fe3f477a23b2e7a14cce7f0f4ff65f0dd3cf95",
+            "commit_short": "61fe3f4"
+        },
+        "requirements": [],
+        "package_metadata": [],
+        "files": [
+            "__init__.py",
+            "README.md"
+        ]
+    },
+    {
+        "name": "ComfyUI-Impact-Pack",
+        "path": "C:\\Users\\Rion\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\ComfyUI\\ComfyUI\\custom_nodes\\ComfyUI-Impact-Pack",
+        "git": {
+            "is_git_repository": true,
+            "remote_url": "https://github.com/ltdrdata/ComfyUI-Impact-Pack.git",
+            "branch": "Main",
+            "commit": "ed1bd80650a1d9c9f5d17d6411455e65ad43b58b",
+            "commit_short": "ed1bd806"
+        },
+        "requirements": [
+            "requirements.txt"
+        ],
+        "package_metadata": [
+            "pyproject.toml"
+        ],
+        "files": [
+            "__init__.py",
+            "README.md",
+            "requirements.txt",
+            "pyproject.toml"
+        ]
+    },
+    {
+        "name": "ComfyUI-Inspire-Pack",
+        "path": "C:\\Users\\Rion\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\ComfyUI\\ComfyUI\\custom_nodes\\ComfyUI-Inspire-Pack",
+        "git": {
+            "is_git_repository": true,
+            "remote_url": "https://github.com/ltdrdata/ComfyUI-Inspire-Pack.git",
+            "branch": "main",
+            "commit": "d23db9aa544de9a6d4c609cb7005fa9e0d42031d",
+            "commit_short": "d23db9a"
+        },
+        "requirements": [
+            "requirements.txt"
+        ],
+        "package_metadata": [
+            "pyproject.toml"
+        ],
+        "files": [
+            "__init__.py",
+            "README.md",
+            "requirements.txt",
+            "pyproject.toml"
+        ]
+    },
+    {
+        "name": "comfyui-kjnodes",
+        "path": "C:\\Users\\Rion\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\ComfyUI\\ComfyUI\\custom_nodes\\comfyui-kjnodes",
+        "git": null,
+        "requirements": [
+            "requirements.txt"
+        ],
+        "package_metadata": [
+            "pyproject.toml"
+        ],
+        "files": [
+            "__init__.py",
+            "README.md",
+            "requirements.txt",
+            "pyproject.toml"
+        ]
+    },
+    {
+        "name": "comfyui-manager",
+        "path": "C:\\Users\\Rion\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\ComfyUI\\ComfyUI\\custom_nodes\\comfyui-manager",
+        "git": {
+            "is_git_repository": true,
+            "remote_url": "https://github.com/ltdrdata/ComfyUI-Manager",
+            "branch": "main",
+            "commit": "3ab17e228ebd10b5e045831a0a265249daaa3bbb",
+            "commit_short": "3ab17e22"
+        },
+        "requirements": [
+            "requirements.txt"
+        ],
+        "package_metadata": [
+            "pyproject.toml"
+        ],
+        "files": [
+            "__init__.py",
+            "README.md",
+            "requirements.txt",
+            "pyproject.toml"
+        ]
+    },
+    {
+        "name": "ComfyUI-ReActor",
+        "path": "C:\\Users\\Rion\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\ComfyUI\\ComfyUI\\custom_nodes\\ComfyUI-ReActor",
+        "git": {
+            "is_git_repository": true,
+            "remote_url": "https://github.com/Gourieff/ComfyUI-ReActor.git",
+            "branch": "main",
+            "commit": "0763f707e3f791323f2e7450d100a25860df546c",
+            "commit_short": "0763f70"
+        },
+        "requirements": [
+            "requirements.txt"
+        ],
+        "package_metadata": [
+            "pyproject.toml"
+        ],
+        "files": [
+            "__init__.py",
+            "README.md",
+            "requirements.txt",
+            "pyproject.toml"
+        ]
+    },
+    {
+        "name": "comfyui-videohelpersuite",
+        "path": "C:\\Users\\Rion\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\ComfyUI\\ComfyUI\\custom_nodes\\comfyui-videohelpersuite",
+        "git": null,
+        "requirements": [
+            "requirements.txt"
+        ],
+        "package_metadata": [
+            "pyproject.toml"
+        ],
+        "files": [
+            "__init__.py",
+            "README.md",
+            "requirements.txt",
+            "pyproject.toml"
+        ]
+    },
+    {
+        "name": "comfyui_controlnet_aux",
+        "path": "C:\\Users\\Rion\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\ComfyUI\\ComfyUI\\custom_nodes\\comfyui_controlnet_aux",
+        "git": {
+            "is_git_repository": true,
+            "remote_url": "https://github.com/Fannovel16/comfyui_controlnet_aux.git",
+            "branch": "main",
+            "commit": "a587a4c1594524c1d2de5cd1a86cd868ff448e1c",
+            "commit_short": "a587a4c"
+        },
+        "requirements": [
+            "requirements.txt"
+        ],
+        "package_metadata": [
+            "pyproject.toml"
+        ],
+        "files": [
+            "__init__.py",
+            "README.md",
+            "requirements.txt",
+            "pyproject.toml"
+        ]
+    },
+    {
+        "name": "ComfyUI_IPAdapter_plus",
+        "path": "C:\\Users\\Rion\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\ComfyUI\\ComfyUI\\custom_nodes\\ComfyUI_IPAdapter_plus",
+        "git": {
+            "is_git_repository": true,
+            "remote_url": "https://github.com/cubiq/ComfyUI_IPAdapter_plus.git",
+            "branch": "main",
+            "commit": "a0f451a5113cf9becb0847b92884cb10cbdec0ef",
+            "commit_short": "a0f451a"
+        },
+        "requirements": [],
+        "package_metadata": [
+            "pyproject.toml"
+        ],
+        "files": [
+            "__init__.py",
+            "README.md",
+            "pyproject.toml"
+        ]
+    },
+    {
+        "name": "facerestore_cf",
+        "path": "C:\\Users\\Rion\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\ComfyUI\\ComfyUI\\custom_nodes\\facerestore_cf",
+        "git": {
+            "is_git_repository": true,
+            "remote_url": "https://github.com/mav-rik/facerestore_cf",
+            "branch": "master",
+            "commit": "ff4d7a5c102441d8f058dd6135797ffb57b6c6ad",
+            "commit_short": "ff4d7a5"
+        },
+        "requirements": [
+            "requirements.txt"
+        ],
+        "package_metadata": [],
+        "files": [
+            "__init__.py",
+            "README.md",
+            "requirements.txt"
+        ]
+    },
+    {
+        "name": "HTMutilitty",
+        "path": "C:\\Users\\Rion\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\ComfyUI\\ComfyUI\\custom_nodes\\HTMutilitty",
+        "git": null,
+        "requirements": [],
+        "package_metadata": [],
+        "files": []
+    },
+    {
+        "name": "rgthree-comfy",
+        "path": "C:\\Users\\Rion\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\ComfyUI\\ComfyUI\\custom_nodes\\rgthree-comfy",
+        "git": {
+            "is_git_repository": true,
+            "remote_url": "https://github.com/rgthree/rgthree-comfy.git",
+            "branch": "main",
+            "commit": "bc48c6aaeca87bedbc14245d89f9bc6be37a630e",
+            "commit_short": "bc48c6a"
+        },
+        "requirements": [
+            "requirements.txt"
+        ],
+        "package_metadata": [
+            "pyproject.toml",
+            "package.json"
+        ],
+        "files": [
+            "__init__.py",
+            "README.md",
+            "requirements.txt",
+            "pyproject.toml"
+        ]
+    }
+]
